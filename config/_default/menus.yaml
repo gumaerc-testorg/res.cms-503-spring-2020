@@ -1,5 +1,5 @@
 leftnav:
-- identifier: external-c7bb60f943da478b97b50b6fbfbeab5f
+- identifier: 3738f81d-1b77-4dbe-bfe5-7f2312f3b374
   name: Online Publication
-  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+0.503x+T2020/about
+  pageRef: /external-resources/online-publication_3738f81d-1b77-4dbe-bfe5-7f2312f3b374
   weight: 1000

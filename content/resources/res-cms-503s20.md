@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-cms-503-becoming-a-more-equitable-educator-mindsets-and-practices-spring-2020/d3c66fa0879b06f45a47d10481ddd41f_RES-CMS-503S20.jpg
+file_size: 66283
 file_type: image/jpeg
 image_metadata:
   caption: Sharing teaching information. (Image courtesy of the instructor.)
